@@ -11,6 +11,3 @@ When You get directed to the csv data, u can just click ctrl + s and change the 
   
   
   > If you want to change or edit something, you can just git clone this repo using your git bash
-  ```
-  git clone https://github.com/Kurniawanrzk/Firms-Hotspot-Kalimantan
-  ```
